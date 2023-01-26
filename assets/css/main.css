@@ -2238,3 +2238,10 @@ input, select, textarea {
 				img:hover {
 					transform: scale(1.15);
 				}
+
+				.normal-size {
+					width: 60px;
+					height: 60px;
+					position: relative;
+					margin-bottom: -13px;
+				 }
